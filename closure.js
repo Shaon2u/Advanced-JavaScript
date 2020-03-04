@@ -9,13 +9,24 @@ const clock1 = stopWatch();
 console.log(clock1());
 console.log(clock1());
 console.log(clock1());
-console.log(clock1());
 
 const clock2 = stopWatch();
 console.log(clock2());
 console.log(clock2());
 console.log(clock2());
+
+const clock3 = stopWatch();
+console.log(clock3());
+console.log(clock3());
+
+// random call
 console.log(clock1());
+console.log(clock3());
 console.log(clock2());
+console.log(clock2());
+console.log(clock2());
+console.log(clock3());
 console.log(clock1());
-console.log(clock2());
+console.log(clock1());
+console.log(clock1());
+console.log(clock3());

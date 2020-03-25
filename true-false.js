@@ -1,12 +1,8 @@
-// FALSY:
-// 0
-// ""
-// undefined
-// null
-// Nan
-// false
-// TRUTHY:
-// '0', ' ', []
+// FALSY value : 0 / "" / undefined / null / NaN / false
+// TRUTHY value : "0" / " " / []
+
+// Number: যে কোন true নাম্বার 0 ছাড়া
+// String: যে কোন String True শুধু empty String False.
 
 // const name = "0";
 // let name;
